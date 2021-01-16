@@ -1,0 +1,25 @@
+
+s4ke
+
+* back-select grid cell when selecting another node
+  also list, loc, proc, reg
+  find first node thst paints to this, and select that
+* list editor, compile
+* project load/save
+* compile, pack, sort, export
+* reg/state monitor window
+  grid, 16*16, show all values
+  (able to modify??)
+* copy/paste
+  - ctrl-click = swap selected & clicked?
+* draggable index indicators for node/list/reg, etc..
+* up/down arrows for number value inputs.
+
+graph
+
+* poly, voice, voicelist nodes
+
+vm
+
+* poly-registers
+* ph/rc -> part of poly regs
